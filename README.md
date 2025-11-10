@@ -12,7 +12,7 @@ Feel free to poke around and check out the code!
 
 Here's what I've got so far:
 
-### 1. Vege-tator (The Foley Thing)
+### 1. Vegerator (The Foley Thing)
 
 This was a big one! It's a tool I built to help create a *ton* of vegetation foley sounds (like leaves, grass, twigs) super fast. Instead of sitting there for an hour layering and randomizing, this script does the boring parts for you.
 
