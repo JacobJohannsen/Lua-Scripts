@@ -1,3 +1,5 @@
+_Authors_JacobJohannsen_FranzBierschwale
+
 ## 🌲 MSV Vegetation Generator: User Manual
 
 _A guide to the intended end-user experience when using the script._
@@ -36,3 +38,4 @@ _A guide to the intended end-user experience when using the script._
 After applying changes, the script organizes all the new assets into parent and child tracks.
 
 _Parent and child tracks being created by the script. Child tracks increase with the amount of layers._
+
